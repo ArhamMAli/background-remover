@@ -1,5 +1,4 @@
 Flask==2.3.3
 mediapipe==0.10.18
 opencv-python==4.5.5.64
-jax==0.4.30
 gunicorn==20.1.0
